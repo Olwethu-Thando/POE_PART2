@@ -1,0 +1,26 @@
+[
+  {
+    "messageID": "0000000000",
+    "recipient": "+27699664520",
+    "message": "hey Atlegnag ",
+    "messageHash": "00:0:HEYATLEGNAG"
+  },
+  {
+    "messageID": "0000000001",
+    "recipient": "+2769964520",
+    "message": "im proud of you my friend , My app is running ke sana!!!!!!!!!!!!!!!",
+    "messageHash": "00:1:IMSANA!!!!!!!!!!!!!!!"
+  },
+  {
+    "messageID": "0000000002",
+    "recipient": "+27699664520",
+    "message": "hey atli",
+    "messageHash": "00:2:HEYATLI"
+  },
+  {
+    "messageID": "0000000003",
+    "recipient": "+27699664520",
+    "message": "i love you ",
+    "messageHash": "00:3:IYOU"
+  }
+]
